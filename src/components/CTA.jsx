@@ -4,7 +4,7 @@ import expedia from "../assets/fly3.webp";
 import qantas from "../assets/fly (1).webp";
 import alitalia from "../assets/fly (2).webp";
 
-const CTA = () => {
+const Cta = () => {
   const partners = [jetstar, expedia, qantas, alitalia];
 
   return (
@@ -62,4 +62,4 @@ const CTA = () => {
   );
 };
 
-export default CTA;
+export default Cta;
