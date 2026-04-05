@@ -5,7 +5,7 @@ import Services from "./components/Services";
 import Destinations from "./components/Destinations";
 import BookingSteps from "./components/BookingSteps";
 import Testimonials from "./components/Testimonials";
-import CTA from "./components/Cta.jsx";
+import CTA from "./components/CTA.jsx";
 import Footer from "./components/Footer";
 
 
